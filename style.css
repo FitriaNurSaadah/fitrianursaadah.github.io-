@@ -1,0 +1,22 @@
+body {
+  overflow-x: hidden !important;
+}
+
+
+.navbar-brand,
+.nav-link {
+    color: rgb(255, 255, 255) !important;
+    font-family:'Times New Roman', Times, serif;
+  }
+
+  .Jumbotron{
+
+    background-image: url(img/bg2.jpg); 
+    background: size 180px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    
+}
+
+
+
+  
